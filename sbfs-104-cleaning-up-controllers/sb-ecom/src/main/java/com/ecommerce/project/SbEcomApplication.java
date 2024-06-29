@@ -8,7 +8,7 @@ public class SbEcomApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SbEcomApplication.class, args);
-		System.out.println("Ecommerce Application....!");
+		System.out.println("Ecommerce Application Started( samll change)....!");
 	}
 
 }
